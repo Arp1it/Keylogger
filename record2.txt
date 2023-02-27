@@ -1,0 +1,111 @@
+'s''d''c''c''s''c''c'Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.leftKey.leftKey.leftKey.rightKey.rightKey.rightKey.shift_r'}'Key.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.rightKey.shift_r'{'Key.left'f'Key.shift_r'"'Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.shift_r'"'Key.leftKey.space'\\''n'Key.ctrl_r'\x13''u' 
+'d' 
+'c' 
+Key.backspace 
+Key.backspace 
+Key.backspace 
+Key.backspace 
+Key.backspace 
+'f' 
+Key.backspace 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+'%' 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+'(' 
+'a' 
+'s' 
+'c' 
+'t' 
+'i' 
+'m' 
+'e' 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+Key.shift_r 
+')' 
+'s' 
+Key.space 
+'-' 
+Key.space 
+%(asctime)s - 's' 
+%(asctime)s - 'j' 
+%(asctime)s - 'd' 
+%(asctime)s - 'c' 
+%(asctime)s - 'n' 
+%(asctime)s - Key.backspace 
+%(asctime)s - Key.backspace 
+%(asctime)s - Key.backspace 
+%(asctime)s - Key.backspace 
+%(asctime)s - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - 'h' 
+10:47:27 - 'd' 
+10:47:27 - 'b' 
+10:47:27 - 's' 
+10:47:27 - 'h' 
+10:47:27 - 'd' 
+10:47:27 - 'b' 
+10:47:27 - 'c' 
+10:47:27 - 'h' 
+10:47:27 - 'b' 
+10:47:27 - 's' 
+10:47:27 - 'd' 
+10:47:27 - 'h' 
+10:47:27 - 'b' 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - Key.backspace 
+10:47:27 - 'd' 
+10:47:27 - 'c' 
